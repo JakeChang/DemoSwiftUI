@@ -1,1 +1,7 @@
-# DemoSwiftUI
+# JK 的 SwiftUI 練習課
+
+在本專案內會練習使用 SwiftUI 建構的各種 UI 介面
+
+### 1.簡單的登入畫面
+
+### 2. 個人資料輸入

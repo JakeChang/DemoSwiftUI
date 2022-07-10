@@ -11,7 +11,7 @@ import SwiftUI
 struct DemoSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            PageView3()
+            PageView4()
         }
     }
 }

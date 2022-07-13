@@ -19,6 +19,7 @@
 		23AD2BB1287921E100E8B521 /* PageView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23AD2BB0287921E100E8B521 /* PageView2.swift */; };
 		23B78BA0287E7A130045645E /* PageView9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B78B9F287E7A130045645E /* PageView9.swift */; };
 		23B78BA2287E9E950045645E /* PageView10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B78BA1287E9E950045645E /* PageView10.swift */; };
+		23B78BA4287EAE4D0045645E /* PageView11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B78BA3287EAE4D0045645E /* PageView11.swift */; };
 		63A2B3C6287D1E60008C759F /* PageView8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A2B3C5287D1E60008C759F /* PageView8.swift */; };
 /* End PBXBuildFile section */
 
@@ -36,6 +37,7 @@
 		23AD2BB0287921E100E8B521 /* PageView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView2.swift; sourceTree = "<group>"; };
 		23B78B9F287E7A130045645E /* PageView9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView9.swift; sourceTree = "<group>"; };
 		23B78BA1287E9E950045645E /* PageView10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView10.swift; sourceTree = "<group>"; };
+		23B78BA3287EAE4D0045645E /* PageView11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView11.swift; sourceTree = "<group>"; };
 		63A2B3C5287D1E60008C759F /* PageView8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,6 +83,7 @@
 				63A2B3C5287D1E60008C759F /* PageView8.swift */,
 				23B78B9F287E7A130045645E /* PageView9.swift */,
 				23B78BA1287E9E950045645E /* PageView10.swift */,
+				23B78BA3287EAE4D0045645E /* PageView11.swift */,
 				23689CFF286F3C3F00F2D3A8 /* Preview Content */,
 			);
 			path = DemoSwiftUI;
@@ -169,6 +172,7 @@
 				2372971F287BC9940045130A /* PageView6.swift in Sources */,
 				23729719287A753F0045130A /* PageView3.swift in Sources */,
 				63A2B3C6287D1E60008C759F /* PageView8.swift in Sources */,
+				23B78BA4287EAE4D0045645E /* PageView11.swift in Sources */,
 				23B78BA0287E7A130045645E /* PageView9.swift in Sources */,
 				23AD2BB1287921E100E8B521 /* PageView2.swift in Sources */,
 				23B78BA2287E9E950045645E /* PageView10.swift in Sources */,
